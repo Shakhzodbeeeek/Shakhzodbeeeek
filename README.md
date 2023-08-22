@@ -59,14 +59,6 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhzodbeeeek&langs_count=8)
 </div>
-  <br>
-</p>
-
-<hr>
-
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shakhzodbeeeek">
-
 <h5 align="center">
   <a href="https://github.com/Shakhzodbeeek?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h5>
